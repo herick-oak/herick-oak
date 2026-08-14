@@ -4,65 +4,33 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/herickcarv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:herick.carv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
+## 👨‍💻 Sobre mim
+Olá! Sou o Herick, estudante de Engenharia de Software com foco em **Dados, Inteligência Artificial e Automação**. 
 
-###
+Venho da área de Governança de TI (atuando no **Machado Meyer Advogados** com BI, ETL e ITSM) e hoje direciono meus estudos para construir soluções que transformam dados brutos em decisões estratégicas usando Python e IA Generativa.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=herick-oak.herick-oak" />
-</div>
+🎯 **Em busca de:** Estágio em Dados | Engenharia de Dados | BI | IA Aplicada
 
-###
+📚 **Stack & Foco atual:**
+- **Dados:** Python (Pandas, NumPy), SQL, Power BI, ETL
+- **IA & Automação:** LangChain, Agentes de IA, n8n, UiPath
+- **Cloud & Dev:** Git, Streamlit, Oracle Cloud
 
-<h1 align="center">Olá 👋</h1>
+---
 
-###
+### 🚀 Projetos em Destaque
 
-<h3 align="left">👩‍💻 Sobre mim</h3>
+🔹 **[Hackathon-Marcia-AI](https://github.com/herick-oak/Hackathon-Marcia-AI)**
+Plataforma de analytics de futebol em tempo real com IA. Desenvolvido em menos de 6 horas para um Hackathon da Solana.
+*Stack: Python, Pandas, LangChain, Streamlit.*
 
-<p align="left">
-Olá! Eu sou o Herick 👋<br>
-Estudante de tecnologia, apaixonado por programação e sempre em busca de evolução constante na área.<br><br>
+🔹 **[FibroSense](https://github.com/NOME-DA-SUA-ORGANIZACAO/FibroSense)**
+App mobile para monitoramento de fibromialgia. Atuei como Product Owner e líder da área de dados, definindo métricas e análises para orientar as soluções do app.
+*Stack: Kotlin, Android Studio, Figma, Python, Pandas.*
 
-📚 Atualmente aprendendo:<br>
-Faço parte do PROA na área de desenvolvimento mobile, com foco em Kotlin e Jetpack Compose.<br><br>
+🔹 **[Estudos-PROA](https://github.com/herick-oak/Estudos-PROA)**
+Minha jornada de aprendizado em Desenvolvimento Mobile no Instituto PROA: lógica de programação, Kotlin, Android e banco de dados MongoDB.
+*Stack: Kotlin, Android Studio, MongoDB.*
 
-🧠 Conhecimentos:<br>
-Tenho experiência com Python e bibliotecas como Pandas, NumPy, além de ferramentas como Selenium e LangChain.<br><br>
-
-⚡ No meu tempo livre:<br>
-Gosto de praticar esportes — principalmente tênis de mesa 🏓 —, caminhar, assistir filmes e ouvir música.
-</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-</div>
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=herick-oak&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>
+---
+📫 **Contato:** herick.carv@gmail.com | [LinkedIn](https://www.linkedin.com/in/herickcarv)
