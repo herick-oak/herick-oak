@@ -24,7 +24,7 @@ Venho da área de Governança de TI (atuando no **Machado Meyer Advogados** com 
 Plataforma de analytics de futebol em tempo real com IA. Desenvolvido em menos de 6 horas para um Hackathon da Solana.
 *Stack: Python, Pandas, LangChain, Streamlit.*
 
-🔹 **[FibroSense](https://github.com/NOME-DA-SUA-ORGANIZACAO/FibroSense)**
+🔹 **[FibroSense]((https://github.com/FibroSensee))**
 App mobile para monitoramento de fibromialgia. Atuei como Product Owner e líder da área de dados, definindo métricas e análises para orientar as soluções do app.
 *Stack: Kotlin, Android Studio, Figma, Python, Pandas.*
 
