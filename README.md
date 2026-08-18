@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f4c669fa-622f-4861-b817-36d0d5777241" width="100%" />
+  <img src="https://github.com/herick-oak/herick-oak/issues/1#issue-4156088272" width="100%" />
 </div>
 
 ###
