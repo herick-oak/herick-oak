@@ -20,21 +20,21 @@ Venho da área de Governança de TI (atuando no **Machado Meyer Advogados** com 
 
 ### 🚀 Projetos em Destaque
 
-🔹 **[Agente Analista de Dados - Oracle ONE](https://github.com/herick-oak/projeto-oracle-next)**  
-Agente de IA que conversa com dados CSV via linguagem natural. Deploy na Oracle Cloud Infrastructure (OCI) com LangChain, Streamlit e Groq API. Projeto desenvolvido durante o Challenge Alura Agente do Oracle Next Education.  
-*Stack: Python, LangChain, Streamlit, Groq, OCI, Pandas.*
+🔹 <a href="https://github.com/herick-oak/projeto-oracle-next" target="_blank" rel="noopener noreferrer"><b>Agente Analista de Dados - Oracle ONE</b></a><br>
+Agente de IA que conversa com dados CSV via linguagem natural. Deploy na Oracle Cloud Infrastructure (OCI) com LangChain, Streamlit e Groq API. Projeto desenvolvido durante o Challenge Alura Agente do Oracle Next Education.<br>
+<i>Stack: Python, LangChain, Streamlit, Groq, OCI, Pandas.</i>
 
-🔹 **[FibroSense](https://github.com/FibroSensee)**  
-**Projeto de Conclusão de Curso do Instituto PROA.** App mobile para monitoramento de fibromialgia. Atuei como Product Owner e líder da área de dados, definindo métricas e análises para orientar as soluções do app e apresentando os resultados no DemoDay 2026.  
-*Stack: Kotlin, Android Studio, Figma, Python, Pandas.*
+ <a href="https://github.com/FibroSensee" target="_blank" rel="noopener noreferrer"><b>FibroSense</b></a><br>
+<b>Projeto de Conclusão de Curso do Instituto PROA.</b> App mobile para monitoramento de fibromialgia. Atuei como Product Owner e líder da área de dados, definindo métricas e análises para orientar as soluções do app e apresentando os resultados no DemoDay 2026.<br>
+<i>Stack: Kotlin, Android Studio, Figma, Python, Pandas.</i>
 
-🔹 **[Hackathon-Marcia-AI](https://github.com/herick-oak/Hackathon-Marcia-AI)**  
-**Minha primeira experiência com hackathons!** Plataforma de analytics de futebol em tempo real com IA. Desenvolvido em menos de 6 horas para um Hackathon da Solana.  
-*Stack: Python, Pandas, LangChain, Streamlit.*
+🔹 <a href="https://github.com/herick-oak/Hackathon-Marcia-AI" target="_blank" rel="noopener noreferrer"><b>Hackathon-Marcia-AI</b></a><br>
+<b>Minha primeira experiência com hackathons!</b> Plataforma de analytics de futebol em tempo real com IA. Desenvolvido em menos de 6 horas para um Hackathon da Solana.<br>
+<i>Stack: Python, Pandas, LangChain, Streamlit.</i>
 
-🔹 **[Estudos-PROA](https://github.com/herick-oak/Estudos-PROA)**  
-Minha jornada de aprendizado em Desenvolvimento Mobile no Instituto PROA: lógica de programação, Kotlin, Android e banco de dados MongoDB.  
-*Stack: Kotlin, Android Studio, MongoDB.*
+🔹 <a href="https://github.com/herick-oak/Estudos-PROA" target="_blank" rel="noopener noreferrer"><b>Estudos-PROA</b></a><br>
+Minha jornada de aprendizado em Desenvolvimento Mobile no Instituto PROA: lógica de programação, Kotlin, Android e banco de dados MongoDB.<br>
+<i>Stack: Kotlin, Android Studio, MongoDB.</i>
 
 ---
-📫 **Contato:** herick.carv@gmail.com | [LinkedIn](https://www.linkedin.com/in/herickcarv)
+📫 <b>Contato:</b> herick.carv@gmail.com | <a href="https://www.linkedin.com/in/herickcarv" target="_blank" rel="noopener noreferrer">LinkedIn</a>
